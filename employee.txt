@@ -4,4 +4,5 @@ Employee ID: 101
 Employee Name: John
 Department: QA
 Salary: 50000
-Address: DelhiEmail: john@test.com
+Address: Delhi
+Email: john@test.com
